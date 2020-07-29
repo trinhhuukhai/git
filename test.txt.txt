@@ -6,3 +6,4 @@ hello world!
 >>>>>>> parent of 5684968... moi them vao ne
 =======
 >>>>>>> parent of 5684968... moi them vao ne
+test thu xem co hien khong
