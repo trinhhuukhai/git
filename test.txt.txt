@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 test th xem co chay khong
 hello world!
+=======
+>>>>>>> parent of 5684968... moi them vao ne
